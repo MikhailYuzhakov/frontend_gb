@@ -1,0 +1,4 @@
+javac -d ourclasses -cp .\ourclasses\ Export.java
+C:\Users\OBI.DGZKS\Desktop\taskmanager\10_IT\03_java_web_development\01\01\ru\gb\notebook\ourclasses>java ru.gb.notebook.Presenter
+-cp для указания уже скомплилированных .class файлов
+-d директория куда будет компилироваться
